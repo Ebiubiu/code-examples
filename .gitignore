@@ -1,0 +1,90 @@
+# Created by .ignore support plugin (hsz.mobi)
+**.iml
+.gradle
+.idea
+build/
+log/
+soa-backup/
+.gitlab-ci.yml
+gradlew
+gradlew.bat
+gradle/
+out/
+idea_modules
+classes
+
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+*.pydevproject
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+.project
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# Java annotation processor (APT)
+.factorypath
+
+# PDT-specific
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# TeXlipse plugin
+.texlipse
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+application.port
+application.pid
+
+# json
+stable.json
+overall.json
+ele-infra.log
+startup.log
+
+soa-backup/
+.arcconfig
+
+.DS_Store
