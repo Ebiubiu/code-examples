@@ -10,7 +10,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring.version>4.3.14.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
         <logback.version>1.0.11</logback.version>
         <slf4j.api.version>1.7.5</slf4j.api.version>
         <fastvalidator.version>2.6.2.4</fastvalidator.version>
